@@ -13,8 +13,6 @@ Right now i'm active tester at uTest.
 
 ## Courses
 
-* **Software tester course in Software Development Academy**
-
 *  Certyfikat kurs testowania (Udemy)
 
 *  Certyfikat Postman (Udemy)
