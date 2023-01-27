@@ -16,7 +16,8 @@ Right now i'm active tester at uTest.
 *  Certyfikat kurs testowania (Udemy)
 
 *  Certyfikat Postman (Udemy)
-  
+
+*  Certificate EF SET (English B1)
 ## Tools 
   
 * Jira
